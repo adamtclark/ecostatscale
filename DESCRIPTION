@@ -4,7 +4,7 @@ Version: 1.0
 Authors@R: c(person("Adam", "Clark", role = c("aut", "cre"),
 					email = c("adam.tclark@gmail.com"),
                     comment = c(ORCID = "0000-0002-8843-3278")))
-Description: Implementation of the scaling functions presented in "General statistical scaling laws for stability in ecological systems" by Clark et al. Includes functions for extrapolating variability, resistance, and resilience across spatial and ecological scales, as well as a basic simulation function for producing time series, and a regression routine for generating unbiased parameter estimates. See the main text of the paper for more details.
+Description: Implementation of the scaling functions presented in "General statistical scaling laws for stability in ecological systems" by Clark et al in Ecology Letters. Includes functions for extrapolating variability, resistance, and resilience across spatial and ecological scales, as well as a basic simulation function for producing time series, and a regression routine for generating unbiased parameter estimates. See the main text of the paper for more details.
 Imports:
 	mvtnorm,
 	stats,

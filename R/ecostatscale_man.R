@@ -2,7 +2,8 @@
 #' 
 #' Implementation of the scaling functions presented in
 #' "General statistical scaling laws for stability in
-#' ecological systems" by Clark et al. Includes functions
+#' ecological systems" by Clark et al. 2021 in Ecology Letters
+#' (DOI: 10.1111/ele.13760). Includes functions 
 #' for extrapolating variability, resistance, and resilience
 #' across spatial and ecological scales, as well as a basic
 #' simulation function for producing time series, and a

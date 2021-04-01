@@ -5,7 +5,7 @@
 \alias{ecostatscale}
 \title{ecostatscale: Statistical Scaling Functions for Ecological Systems}
 \source{
-Clark et al. (2020). General statistical scaling laws for stability in ecological systems. In prep.
+Clark et al. (2021). General statistical scaling laws for stability in ecological systems. Ecology Letters. DOI:10.1111/ele.13760.
 }
 \description{
 Implementation of the scaling functions presented in

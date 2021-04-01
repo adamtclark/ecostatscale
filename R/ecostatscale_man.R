@@ -15,7 +15,7 @@
 #'
 #'
 #' @docType package
-#' @source Clark et al. (2020). General statistical scaling laws for stability in ecological systems. In prep.
+#' @source Clark et al. (2021). General statistical scaling laws for stability in ecological systems. Ecology Letters. DOI:10.1111/ele.13760.
 #' @name ecostatscale
 #' @examples
 #' # simulate a time series:

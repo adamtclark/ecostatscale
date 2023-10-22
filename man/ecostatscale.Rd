@@ -40,3 +40,5 @@ Adam Clark
 # resilience scaling function:
 ?res_scale
 }
+\keyword{"_PACKAGE"}
+\keyword{internal}

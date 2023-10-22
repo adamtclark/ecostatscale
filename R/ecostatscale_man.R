@@ -17,6 +17,8 @@
 #' @docType package
 #' @source Clark et al. (2021). General statistical scaling laws for stability in ecological systems. Ecology Letters. DOI:10.1111/ele.13760.
 #' @name ecostatscale
+#' @keywords internal 
+#' "_PACKAGE"
 #' @examples
 #' # simulate a time series:
 #' ?symdyn  # one species one patch

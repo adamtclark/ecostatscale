@@ -1,0 +1,16 @@
+619c16974091cffbeca3ab3f32259418 *DESCRIPTION
+5f498e33b5c8c577606bd3b35bb99e2d *NAMESPACE
+64dabe26d6c460f8a432ccb3f5bfe063 *R/ecostatscale.R
+26e26d6fd1d6f61e40a62ff71a25fb31 *R/ecostatscale_man.R
+2f71df8c619246dd8360f17c56fac6ea *man/df0.Rd
+ed843018d4463b3642b013744248fe55 *man/df_col.Rd
+a3f981f33a1c7de24ba98795a622d55d *man/df_col_loss.Rd
+c7fab1de529576bc7c04a682ae08b593 *man/ecostatscale.Rd
+606fa73896be2e1357a93b578237edc5 *man/res_scale.Rd
+72fa516493ef63028647f3c639796aad *man/sd_scale.Rd
+9f72c3427a0a685972de5f61156c6961 *man/symdyn.Rd
+1ac2e61310325b0410b3030f96ab92d8 *man/symdynN.Rd
+475386e5597a5863fcc127888dcfc0a1 *man/var_scale.Rd
+bbfb9fb4902c463ea3dbfdb6628658ec *man/xt.Rd
+c943cbbe68baeaa399af80e48fced3e2 *man/xt2fun.Rd
+f834be0d5f5681c8baafff6f28ee75e6 *man/xtN.Rd
